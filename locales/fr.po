@@ -7208,7 +7208,7 @@ msgstr[1] "{0} cellules"
 
 #: frontend/src/metabase-lib/lib/Dimension.js:498
 msgid "Auto binned"
-msgstr "Binnage automatique"
+msgstr "Binning automatique"
 
 #: src/metabase/api/alert.clj
 msgid "DELETE /api/alert/:id is deprecated. Instead, change its `archived` value via PUT /api/alert/:id."
@@ -7468,11 +7468,11 @@ msgstr "La table \"{0}\" n'est pas visible. Resynchronisation en cours."
 
 #: src/metabase/api/table.clj
 msgid "Auto bin"
-msgstr "Binnage automatique"
+msgstr "Binning automatique"
 
 #: src/metabase/api/table.clj
 msgid "Don''t bin"
-msgstr "Aucun binnage"
+msgstr "Aucun binning"
 
 #: src/metabase/api/table.clj
 msgid "Day"
@@ -8561,11 +8561,11 @@ msgstr "Ainsi avec un coefficient 10, le résultat d'une requête prenant en moy
 
 #: src/metabase/public_settings.clj
 msgid "When using the default binning strategy and a number of bins is not provided, this number will be used as the default."
-msgstr "Valeur par défaut du nombre de cellules (bins) pour le binnage."
+msgstr "Valeur par défaut du nombre de cellules (bins) pour le binning."
 
 #: src/metabase/public_settings.clj
 msgid "When using the default binning strategy for a field of type Coordinate (such as Latitude and Longitude), this number will be used as the default bin width (in degrees)."
-msgstr "Valeur par défaut en degrés du côté d'une cellule (bin) pour le binnage d'un champ de type Coordonnées (tels que Latitude ou Longitude)."
+msgstr "Valeur par défaut en degrés du côté d'une cellule (bin) pour le binning d'un champ de type Coordonnées (tels que Latitude ou Longitude)."
 
 #: src/metabase/public_settings/metastore.clj
 msgid "Unable to validate token."
